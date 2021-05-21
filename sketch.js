@@ -7,4 +7,6 @@ function draw() {
   fill(242,36,94);
   textSize(100);
   text("Isabella Rodríguez",100,200);
+  fill(0);
+  ellipse(50,200,30,30);
 }
